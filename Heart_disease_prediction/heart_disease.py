@@ -31,7 +31,7 @@ Algorithms Used:
 s.markdown(c)
 
 s.image('https://media.clinicaladvisor.com/images/2017/03/29/heartillustrationts51811362_1191108.jpg')
-with open('Heart_disease_prediction/heart_pred.pkl','rb') as f:
+with open('Heart_disease_prediction/model_joblib.pkl','rb') as f:
     chatgpt = pickle.load(f)
 
 
