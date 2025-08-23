@@ -64,7 +64,7 @@ placeholder = st.empty()
 placeholder.subheader('Predicting Heart Disease') 
 
 place = st.empty()
-place.image('https://i.makeagif.com/media/1-17-2024/dw-jXM.gif',width = 200)
+place.image('https://cdn.dribbble.com/users/2154580/screenshots/6452241/atemlos_loop_heart_v1.0_chriseff_dribbble.gif',width = 200)
 
 for i in range(100):
     time.sleep(0.05)
