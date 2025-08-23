@@ -84,4 +84,4 @@ else:
     progress_bar = st.progress(0)
 
 
-st.markdown('Designed by: **Ankit Mishra**')
+st.markdown('Designed by: **Govind Ahuja**')
