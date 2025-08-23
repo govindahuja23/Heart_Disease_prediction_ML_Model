@@ -32,7 +32,7 @@ st.markdown(data)
 
 st.image('https://www.shutterstock.com/image-vector/abstract-blue-human-heart-red-600nw-2526983201.jpg')
 
-with open('heart_disease_pred.pkl','rb') as f:
+with open('Heart/heart_disease_pred.pkl','rb') as f:
     chatgpt = pickle.load(f)
 
 # Load data
