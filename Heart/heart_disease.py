@@ -41,7 +41,7 @@ df = pd.read_csv(url)
 
 
 st.sidebar.header('Select Features to Predict Heart Disease')
-st.sidebar.image('https://humanbiomedia.org/animations/circulatory-system/cardiac-cycle/heart-beating.gif')
+st.sidebar.image('https://i.pinimg.com/originals/fd/5f/db/fd5fdb1bb1b91faab600b253bcddc101.gif')
 
 all_values = []
 
